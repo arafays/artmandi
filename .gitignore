@@ -60,5 +60,8 @@ typings/
 # VSCODE
 .vscode
 
-#yarn lock file
-yarn.lock
+# build folder 
+/build
+
+#firebase configuration
+/src/lib/firebase.js
